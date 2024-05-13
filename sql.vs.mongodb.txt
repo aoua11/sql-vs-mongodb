@@ -1,0 +1,46 @@
+Slide 1: Introduction
+
+Title: MongoDB vs. SQL
+Brief overview of the presentation
+Introduction to MongoDB as a NoSQL database and SQL as a relational database
+Slide 2: Data Model
+
+MongoDB:
+Document-based data model
+Stores data in flexible, JSON-like documents
+SQL:
+Relational data model
+Organizes data into tables with rows and columns
+Slide 3: Schema Design
+
+MongoDB:
+Dynamic schema allows for flexibility
+No predefined structure, fields can vary within a collection
+SQL:
+Requires a predefined schema
+Enforces structure and data integrity through defined tables, columns, and relationships
+Slide 4: Scalability
+
+MongoDB:
+Horizontal scalability with sharding
+Scales easily across distributed systems
+SQL:
+Vertical scalability with replication
+Scaling up by adding more resources to a single server
+Slide 5: Use Cases and Conclusion
+
+MongoDB:
+Suitable for applications with rapidly changing data or evolving schemas
+Commonly used in real-time analytics, content management systems, and IoT applications
+SQL:
+Ideal for applications with complex queries and transactions
+Commonly used in banking, finance, e-commerce, and traditional enterprise applications
+Conclusion:
+Both MongoDB and SQL have their strengths and are suitable for different use cases depending on the requirements of the application.
+Feel free to expand on each point with more details or examples as needed!
+
+
+
+
+
+
